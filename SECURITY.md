@@ -39,9 +39,9 @@ We believe in recognizing security researchers who help make our platform safer:
 
 ### Reward Tiers
 - **Critical**: Shoutout in our discord server and a special role with some swags.
-- **High**: $200 - Shoutout in our discord server with a badge in server.
-- **Medium**: $50 - Recognition in our discord server with sticker.
-- **Low**: $25 - Appreciation in our discord server.
+- **High**: Shoutout in our discord server with a badge in server.
+- **Medium**: Recognition in our discord server with sticker.
+- **Low**: Appreciation in our discord server.
 
 ### Qualifying Vulnerabilities
 - Remote code execution
