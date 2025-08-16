@@ -38,10 +38,10 @@ We take security vulnerabilities seriously. If you discover a security vulnerabi
 We believe in recognizing security researchers who help make our platform safer:
 
 ### Reward Tiers
-- **Critical**: $500 - $2,000
-- **High**: $200 - $500
-- **Medium**: $50 - $200
-- **Low**: $25 - $50
+- **Critical**: Shoutout in our discord server and a special role with some swags.
+- **High**: $200 - Shoutout in our discord server with a badge in server.
+- **Medium**: $50 - Recognition in our discord server with sticker.
+- **Low**: $25 - Appreciation in our discord server.
 
 ### Qualifying Vulnerabilities
 - Remote code execution
